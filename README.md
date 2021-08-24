@@ -29,10 +29,6 @@ Project created by <a href="https://github.com/BADBMODER">BADBMODER</a> to make 
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="" target="blank"><img align="center" src="" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
 <a href="https://youtu.be/fBNiy3nfcgg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
