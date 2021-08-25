@@ -54,7 +54,7 @@ Click WA logo to Join Support Group 👇
 Click Badboy logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://https://chat.whatsapp.com/BUtgb7oLDGvDkTGl8P82hz" target="blank"><img align="center" src="https://i.imgur.com/6fTLw6U.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/BUtgb7oLDGvDkTGl8P82hz" target="blank"><img align="center" src="https://i.imgur.com/6fTLw6U.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
