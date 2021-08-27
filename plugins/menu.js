@@ -24,7 +24,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
             *Badboy*
 
 ■□■□■□■□■□■□■□■□■□■□
-♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
+♕ *BADBOTZ 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
 🍙𝙐𝙨𝙚➜ Downloads song for you.
