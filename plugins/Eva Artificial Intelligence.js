@@ -1,5 +1,5 @@
 /* Codded by Phaticusthiccy
-re edit saidalisaid
+re edit Badboy
 
 
 Eva, The Phaticusthiccy's Multifunctional Artificial Intelligence
@@ -273,21 +273,21 @@ var already_off = ''
 var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
-    fulleva_dsc = 'Tam fonksiyonel Eva özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
+    fulleva_dsc = 'Tam fonksiyonel Eva özelliklerini aktif eder. Hesabınızı bir badbota dönüştürün!'
     already_on = 'Eva yapay zekası halihazırda tüm fonksiyonları etkin.'
     already_off = 'Eva yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
     succ_on = 'Eva, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
     succ_off = 'Eva, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
-    fulleva_dsc = 'Activates full functional Pinky features. Turn your account into a ai chatbot!'
+    fulleva_dsc = 'Activates full functional Pinky features. Turn your account into a ai badbot!'
     already_on = 'Pinky artificial intelligence is already fully functional.'
     already_off = 'Pinky artificial intelligence is currently running semi-functional.'
-    succ_on = 'liyamol Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'liyamol Set to Semi-Functional! Please wait a bit! ☑️'
+    succ_on = 'BADBOT Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'BADBOT Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'AZ') {
-    fulleva_dsc = 'Tam funksional Eva xüsusiyyətlərini aktivləşdirir. Hesabınızı bir chatbot halına gətirin!'
+    fulleva_dsc = 'Tam funksional Eva xüsusiyyətlərini aktivləşdirir. Hesabınızı bir badbot halına gətirin!'
     already_on = 'Eva süni intellekt onsuz da tam işlək vəziyyətdədir.'
     already_off = 'Eva AI hazırda yarı funksionaldır.'
     succ_on = 'Eva Tamamilə İşlədi! Xahiş edirəm bir az gözləyin! ✅'
@@ -301,7 +301,7 @@ if (conf.LANG == 'RU') {
     succ_off = 'Eva настроена на полуфункциональность! Подождите немного! ☑️'
 }
 if (conf.LANG == 'ES') {
-    fulleva_dsc = 'Activa todas las funciones funcionales de Eva. ¡Convierta su cuenta en un chatbot!'
+    fulleva_dsc = 'Activa todas las funciones funcionales de Eva. ¡Convierta su cuenta en un badbot!'
     already_on = 'La inteligencia artificial de Eva ya es completamente funcional.'
     already_off = 'Eva AI es actualmente semi-funcional.'
     succ_on = '¡Eva abrió completamente funcionalmente! ¡Por favor espere un poco! ✅'
@@ -322,14 +322,14 @@ if (conf.LANG == 'ML') {
     succ_off = 'സെമി-ഫങ്ഷണൽ ആയി ഇവാ സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 if (conf.LANG == 'PT') {
-    fulleva_dsc = 'Ativa recursos Eva totalmente funcionais. Transforme sua conta em um chatbot!'
+    fulleva_dsc = 'Ativa recursos Eva totalmente funcionais. Transforme sua conta em um badbot!'
     already_on = 'A inteligência artificial Eva já está totalmente funcional.'
     already_off = 'Eva AI está semi-funcional.'
     succ_on = 'Eva abriu totalmente funcionalmente! Por favor espere um pouco! ✅'
     succ_off = 'Eva definida como semi-funcional! Por favor espere um pouco! ☑️'
 }
 if (conf.LANG == 'ID') {
-    fulleva_dsc = 'Mengaktifkan fitur Eva yang berfungsi penuh. Ubah akun Anda menjadi chatbot!'
+    fulleva_dsc = 'Mengaktifkan fitur Eva yang berfungsi penuh. Ubah akun Anda menjadi badbot!'
     already_on = 'Kecerdasan buatan Eva sudah berfungsi penuh.'
     already_off = 'Eva AI saat ini semi-fungsional.'
     succ_on = 'Eva Dibuka Sepenuhnya Secara Fungsional! Harap tunggu sebentar! ✅'
