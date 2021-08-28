@@ -17,10 +17,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━ BADBOTZ ━━━━━⛦
-
-
- ╔═════════════════❍
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════❍
 ║-ʙᴀᴅʙᴏᴛᴢ 亗!!
 ║
 ║╾ ɴᴜᴍʙᴇʀ : @918593079460
@@ -43,7 +40,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ╠══════════════════⎉
 ╠═════⊱*「ᴍᴇᴅɪᴀ ᴄᴏᴍᴍᴇɴᴅꜱ」* 
 ║┏━━⊱
-║┣❏ !song*
+║┣❏ *!song*
 ║┣❏ 
 ║┣❏ *!video*
 ║┣❏ 
