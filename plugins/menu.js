@@ -38,7 +38,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ╠══════════════════⎉
 ║-ᴀsᴋ ᴍʏ ᴏᴡɴᴇʀ
 ╠══════════════════⎉
-╠═════⊱*「ᴍᴇᴅɪᴀ ᴄᴏᴍᴍᴇɴᴅꜱ」* 
+╠═════⊱ *「ᴍᴇᴅɪᴀ ᴄᴏᴍᴍᴇɴᴅꜱ」* 
 ║┏━━⊱
 ║┣❏ *!song*
 ║┣❏ 
@@ -74,7 +74,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ║┣❏ 
 ║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
-║┣━━⊱*「 Fun Commends 」* 
+║┣━━⊱*「Fun Commends」* 
 ║┣❏ *!joke*
 ║┣❏  
 ║┣❏ *!meme*
@@ -101,22 +101,22 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ║┣❏
 ║┣❏ *!anime*
 ║┣❏ 
-║┗━━━━*《 ʙᴀᴅʙᴏᴛᴢ 》*
+║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
-║┣━━⊱*「 Sticker Commends 」* 
+║┣━━⊱*「Sticker Commends」* 
 ║┣❏ *!sticker*
 ║┣❏
 ║┣❏ *!photo*
 ║┣❏
 ║┣❏ !*attp*
 ║┣❏
-║┣❏ *!ttp
+║┣❏ *!ttp*
 ║┣❏
-║┣❏ *!gft
+║┣❏ *!gft*
 ║┣❏
 ║┣❏ *!carbon*
 ║┣❏
-║┗━━━━*《 ʙᴀᴅʙᴏᴛᴢ 》*
+║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
 ║┣━━⊱*「ʙɢᴍ ᴄᴏᴍᴍᴇɴᴅꜱ」* 
  
