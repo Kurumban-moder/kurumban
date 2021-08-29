@@ -47,16 +47,7 @@ Click WA logo to Join Support Group 👇
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpXGo4hJgEE06tgyiQBd6N)
-
-## 
-  <h3 align="center">📢 Support Group 2:</h3>
-<p align="center">
-Click Badboy logo to Join Support Group 2👇
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/BUtgb7oLDGvDkTGl8P82hz" target="blank"><img align="center" src="https://i.imgur.com/6fTLw6U.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
-</p>
-    
+  
 ## Setup
 <div align="center">
 
