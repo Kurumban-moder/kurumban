@@ -455,8 +455,80 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ ꜰʀᴇᴇ
 ║┣❏ ꜰꜰ
 ║┣❏ ʜᴀ
-║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
 ╠═════════════════❍
+║┣━━⊱ *「Maker menu」* 
+║┣❏ *.break*
+║┣❏ *.phub*
+║┣❏ *.blood*
+║┣❏ *.1917*
+║┣❏ *.avengers*
+║┣❏ *.boxed*
+║┣❏ *.window*
+║┣❏ *.skywal*
+║┣❏ *.holo*
+║┣❏ *.drop*
+║┣❏ *.flame*
+║┣❏ *.vtext*
+║┣❏ *.ptext*
+║┣❏ *.colortext*
+║┣❏ *.cloud*
+║┣❏ *.2ninja*
+║┣❏ *.glitch*
+║┣❏ *.pornhub*
+║┣❏ *.sandwriting*
+║┣❏ *.blackpink*
+║┣❏ *.lovemsg*
+║┣❏ *.grass*
+║┣❏ *.blood*
+║┣❏ *.romance*
+║┣❏ *.candlemug*
+║┣❏ *.snow*
+║┣❏ *.cloud*
+║┣❏ *.underwater*
+║┣❏ *.flower*
+║┣❏ *.burn*
+║┣❏ *.candy*
+║┣❏ *.wood*
+║┣❏ *.latte*
+║┣❏ *.8bit*
+║┣❏ *.shadow*
+║┣❏ *.harrypotter*
+║┣❏ *.sparkling*
+║┣❏ *.watercolour*
+║┣❏ *.ninjalogo*
+║┣❏ *.neonlight*
+║┣❏ *.3dtext*
+║┣❏ ffire*
+║┣❏ *.devil*
+║┣❏ *.bear*
+║┣❏ *.wolf*
+║┣❏ *.neon*
+║┣❏ *.2neon*
+║┣❏ *.3neon*
+║┣❏ *.4neon*
+║┣❏ *.light*
+║┣❏ *.joker*
+║┣❏ *.ninja*
+║┣❏ *.glitter*
+║┣❏ *.bokeh*
+║┣❏ *.marvel*
+║┣❏ *.2marvel*
+║┣❏ *.iavengers*
+║┣❏ *.graf*
+║┣❏ *.2graf*
+║┣❏ *.lion*
+║┣❏ *.ice*
+║┣❏ *.space*
+║┣❏ *.smoke*
+║┣❏ *.glow*
+║┣❏ *.fire*
+║┣❏ *.harry*
+║┣❏ *.cup*
+║┣❏ *.cemetery*
+║┣❏ *.glitch*
+║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
+╚═════════════════❍ 
 ║┣❏ *ʙᴀᴅʙᴏᴛᴢ*
 ║┣❏ 
 ║┣❏ ✆ ʀᴇᴘᴏʀᴛ ʙᴜɢ?
@@ -467,7 +539,7 @@ r_text[0] = "https://i.imgur.com/6fTLw6U.jpeg";
 ║┣❏ 
 ║┣❏ https://wa.me/918593079460
 ║┣❏ 
-║┗━━━━*《ʙᴀᴅʙᴏᴛᴢ》*
+║┗━━━━ *《ʙᴀᴅʙᴏᴛᴢ》*
 ╚═════════════════❍ 
 
 `}) 
