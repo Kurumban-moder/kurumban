@@ -145,7 +145,7 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '9sound18sound59sound30sound79sound4sound60@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '918593079460@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sounds/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
