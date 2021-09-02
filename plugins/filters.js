@@ -140,7 +140,6 @@ if(pattern.test(message.message)){
         }
     );
 }));
-     if (Config.GEAR == 'two') {    
     Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
