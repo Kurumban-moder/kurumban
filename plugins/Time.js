@@ -1,5 +1,5 @@
-/* Codded by @BADBMODER
-Telegram: t.me/BADBMODER
+/* Codded by @phaticusthiccy
+Telegram: t.me/phaticusthiccy
 Instagram: www.instagram.com/kyrie.baran
 */
 
@@ -27,7 +27,7 @@ var p = ''
 var cp = ''
 if (Config.LANG == 'TR') {
   d = 'Girilen şehrin veya ülkenin saat ve telemetri bilgilerini gösterir.'
-  w = 'Bu plugin t.me/BADBMODER tarafından geliştirmiştir.'
+  w = 'Bu plugin t.me/phaticusthiccy tarafından geliştirmiştir.'
   x = '*Böyle Bir Şehir Veya Ülke Bulamadım!*'
   n = '*Lütfen Saatini Görmek İstediğiniz Şehrin vey Ülkenin Adını Girin!*'
   res = '{city} İçin Sonuçlar:'
@@ -40,7 +40,7 @@ if (Config.LANG == 'TR') {
   cp = '*Ülke Kodu:* '
 } else if (Config.LANG == 'AZ') {
   d = 'Daxil edilmiş şəhərin və ya ölkənin vaxtı və telemetri məlumatlarını göstərir.'
-  w = 'Bu plugin t.me/BADBMODER tərəfindən hazırlanmışdır.'
+  w = 'Bu plugin t.me/phaticusthiccy tərəfindən hazırlanmışdır.'
   x = '*Belə bir şəhər və ya ölkə tapa bilmədim!*'
   n = '*Vaxtını görmək istədiyiniz şəhərin və ya ölkənin adını daxil edin!*'
   res = '{city} üçün nəticələr:'
@@ -53,7 +53,7 @@ if (Config.LANG == 'TR') {
   cp = '*Ölkə Kodu:* '
 } else if (Config.LANG == 'ES') {
   d = 'Muestra la hora y la información de telemetría de la ciudad o el país ingresados.'
-  w = 'Este complemento está desarrollado por t.me/BADBMODER.'
+  w = 'Este complemento está desarrollado por t.me/phaticusthiccy.'
   x = '*No pude encontrar una ciudad o un país como este!*'
   n = '*Por favor ingrese el nombre de la ciudad o país donde desea ver la hora!*'
   res = 'Resultados de {city}:'
@@ -66,7 +66,7 @@ if (Config.LANG == 'TR') {
   cp = '*Código de país:* '
 } else if (Config.LANG == 'ID') {
   d = 'Menunjukkan waktu dan informasi telemetri dari kota atau negara yang dimasukkan.'
-  w = 'Plugin ini dikembangkan oleh t.me/BADBMODER.'
+  w = 'Plugin ini dikembangkan oleh t.me/phaticusthiccy.'
   x = '*Saya Tidak Dapat Menemukan Kota Atau Negara Seperti Ini!*'
   n = '*Silakan Masukkan Nama Kota atau Negara yang Ingin Anda Lihat Waktunya!*'
   res = 'Hasil untuk {city}:'
@@ -79,7 +79,7 @@ if (Config.LANG == 'TR') {
   cp = '*Kode negara:* '
 } else if (Config.LANG == 'ML') {
   d = 'പ്രവേശിച്ച നഗരത്തിന്റെയോ രാജ്യത്തിന്റെയോ സമയവും ടെലിമെട്രി വിവരങ്ങളും കാണിക്കുന്നു.'
-  w = 'ഈ പ്ലഗിൻ വികസിപ്പിച്ചത് t.me/BADBMODER ആണ്.'
+  w = 'ഈ പ്ലഗിൻ വികസിപ്പിച്ചത് t.me/phaticusthiccy ആണ്.'
   x = '*എനിക്ക് ഇതുപോലുള്ള ഒരു നഗരമോ രാജ്യമോ കണ്ടെത്താൻ കഴിഞ്ഞില്ല!*'
   n = '*നിങ്ങൾ സമയം കാണാൻ ആഗ്രഹിക്കുന്ന നഗരത്തിന്റെയോ രാജ്യത്തിന്റെയോ പേര് ദയവായി നൽകുക!*'
   res = '{city} എന്നതിനായുള്ള ഫലങ്ങൾ:'
@@ -92,7 +92,7 @@ if (Config.LANG == 'TR') {
   cp = '*രാജ്യ കോഡ്:* '
 } else {
   d = 'Shows the time and telemetry information of the entered city or country.'
-  w = 'This plugin is developed by t.me/BADBMODER.'
+  w = 'This plugin is developed by t.me/phaticusthiccy.'
   x = '*I Couldn\'t Find A City Or Country Like This!*'
   n = '*Please Enter the Name of the City or Country You Want to See the Time of!*'
   res = 'Results for {city}:'
