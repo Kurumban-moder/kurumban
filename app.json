@@ -1,9 +1,9 @@
 {
-    "name": "BADBOYMODER",
-    "description": "Badboy bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://raw.githubusercontent.com/BADBMODER/Badboy/master/Badboy.jpg",
+    "name": "KURUMBAN",
+    "description": "kurumban bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://raw.githubusercontent.com/kurumban-moder/kurumban/master/kurumban.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/BADBMODER/Badboy",
+    "repository": "https://github.com/kurumban-moder/kurumban",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -133,7 +133,7 @@
         "WORK_TYPE": {
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```Badboy🧚‍♂️```\n\n```coded by badboy```\n\n```wa.me/918593079460\n"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```kurumban🧚‍♂️```\n\n```coded by kurumban\n"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
